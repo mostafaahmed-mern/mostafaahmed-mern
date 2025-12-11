@@ -54,7 +54,7 @@ and sometimes breaking them *on purpose* so I can fix them again! 😄🔧🔥
 
 // tools_I_use organized
 
-c
+```html
   static myTools = {
     ProgrammingLanguages: ["JavaScript", "TypeScript"],
 
@@ -75,7 +75,7 @@ c
     OtherTools: ["Chrome DevTools"]
   };
 }
-
+```
 
 
 
