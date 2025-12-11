@@ -2,6 +2,32 @@
 :<br><br>🧪 I’m currently working on<br>Building modern web apps using React, JavaScript, and REST APIs, focusing on clean UI and reusable components.​<br><br>🤝 I’m looking to collaborate on<br>Open-source frontend projects, small SaaS dashboards, and any app that needs a responsive, dark-theme UI.​<br><br>🆘 I’m looking for help with<br>Improving my React best practices, performance optimization, and writing better unit tests for frontend code.​<br><br>🌱 I’m currently learning<br>Advanced React patterns, TypeScript, Git/GitHub workflows, and how to design scalable component architectures.​<br><br>💬 Ask me about<br>React, JavaScript, building CRUD apps, handling API calls on the frontend, and organizing your project structure.​<br><br>⚡ Fun fact<br>I learn new tech by building real projects and breaking things on purpose, then fixing them again.
 
 
+CONST MOSTAFA = {
+  pronouns: "He" | "Him",
+
+  programmingLanguages: ["JavaScript", "TypeScript"],
+
+  frontend: ["React", "Next.js", "HTML", "CSS"],
+
+  styling: ["Tailwind CSS"],
+
+  stateManagement: ["Context API"],
+
+  buildTools: ["Vite"],
+
+  versionControl: ["Git", "GitHub"],
+
+  editors: ["VS Code"],
+
+  design: ["Figma"],
+
+  otherTools: ["Chrome DevTools"],
+
+  challenge: "I am building real-world web apps to improve my Full-Stack & MERN skills."
+}
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mostafa.ahmed.833767/?locale=ar_AR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafaahmed-mern/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MOSTAFA22AHMEDs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafaa7med226@gmail.com) 
 
