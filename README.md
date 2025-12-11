@@ -1,34 +1,55 @@
-<h1 align="center">Hi 👋, I'm Mostafa Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+# 💫 About Me:
+:<br><br>🧪 I’m currently working on<br>Building modern web apps using React, JavaScript, and REST APIs, focusing on clean UI and reusable components.​<br><br>🤝 I’m looking to collaborate on<br>Open-source frontend projects, small SaaS dashboards, and any app that needs a responsive, dark-theme UI.​<br><br>🆘 I’m looking for help with<br>Improving my React best practices, performance optimization, and writing better unit tests for frontend code.​<br><br>🌱 I’m currently learning<br>Advanced React patterns, TypeScript, Git/GitHub workflows, and how to design scalable component architectures.​<br><br>💬 Ask me about<br>React, JavaScript, building CRUD apps, handling API calls on the frontend, and organizing your project structure.​<br><br>⚡ Fun fact<br>I learn new tech by building real projects and breaking things on purpose, then fixing them again.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hhg&label=Profile%20views&color=0e75b6&style=flat" alt="hhg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hhg" alt="hhg" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mostafa.ahmed.833767/?locale=ar_AR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafaahmed-mern/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MOSTAFA22AHMEDs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafaa7med226@gmail.com) 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on **Receip lens ( iti graduation project )**
-
-- 🌱 I’m currently learning **Next.js ، Node.js**
-
-- 👨‍💻 All of my projects are available at [Mostafa@jhb](Mostafa@jhb)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **mostafaa7med226@gmail.com**
-
-- 📄 Know about my experiences [Jhgg](Jhgg)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jjggj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjggj" height="30" width="40" /></a>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mostafaahmed-mern&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="Mostafa Ahmed GitHub Stats" 
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=mostafaahmed-mern&theme=shadow_blue&hide_border=false" 
+    alt="Mostafa Ahmed GitHub Streak" 
+  />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhg&show_icons=true&locale=en&layout=compact" alt="hhg" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed-mern&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    alt="Mostafa Ahmed Top Languages" 
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhg&show_icons=true&locale=en" alt="hhg" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhg&" alt="hhg" /></p>
+## 🔝 Top Contributed Repositories
+
+- [My Repositories](https://github.com/mostafaahmed-mern?tab=repositories)  
+- Highlight here your favorite projects (CRUD apps, dashboards, full‑stack experiments, etc.).
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=mostafaahmed-mern&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" 
+    alt="Mostafa Ahmed Contributor Stats" 
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
+- Email: your-email@example.com  
+- Portfolio: [Your Portfolio](https://your-portfolio.com)  
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=mostafaahmed-mern&icon=0&color=0)](https://visitcount.itsvg.in/)
