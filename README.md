@@ -2,7 +2,9 @@
 :<br><br>🧪 I’m currently working on<br>Building modern web apps using React, JavaScript, and REST APIs, focusing on clean UI and reusable components.​<br><br>🤝 I’m looking to collaborate on<br>Open-source frontend projects, small SaaS dashboards, and any app that needs a responsive, dark-theme UI.​<br><br>🆘 I’m looking for help with<br>Improving my React best practices, performance optimization, and writing better unit tests for frontend code.​<br><br>🌱 I’m currently learning<br>Advanced React patterns, TypeScript, Git/GitHub workflows, and how to design scalable component architectures.​<br><br>💬 Ask me about<br>React, JavaScript, building CRUD apps, handling API calls on the frontend, and organizing your project structure.​<br><br>⚡ Fun fact<br>I learn new tech by building real projects and breaking things on purpose, then fixing them again.
 
 
-CONST MOSTAFA = {
+// tools_I_use organized
+
+const MOSTAFA = {
   pronouns: "He" | "Him",
 
   programmingLanguages: ["JavaScript", "TypeScript"],
@@ -24,7 +26,7 @@ CONST MOSTAFA = {
   otherTools: ["Chrome DevTools"],
 
   challenge: "I am building real-world web apps to improve my Full-Stack & MERN skills."
-}
+};
 
 
 
