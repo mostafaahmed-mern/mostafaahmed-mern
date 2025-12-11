@@ -3,33 +3,79 @@
 </p>
 
 
-# 💫 About Me:
-:<br><br>🧪 I’m currently working on<br>Building modern web apps using React, JavaScript, and REST APIs, focusing on clean UI and reusable components.​<br><br>🤝 I’m looking to collaborate on<br>Open-source frontend projects, small SaaS dashboards, and any app that needs a responsive, dark-theme UI.​<br><br>🆘 I’m looking for help with<br>Improving my React best practices, performance optimization, and writing better unit tests for frontend code.​<br><br>🌱 I’m currently learning<br>Advanced React patterns, TypeScript, Git/GitHub workflows, and how to design scalable component architectures.​<br><br>💬 Ask me about<br>React, JavaScript, building CRUD apps, handling API calls on the frontend, and organizing your project structure.​<br><br>⚡ Fun fact<br>I learn new tech by building real projects and breaking things on purpose, then fixing them again.
+# 🚀 About Me
+
+## 👋 Hey there! I'm **Mostafa**
+Frontend Developer passionate about crafting clean UIs, smooth UX, and scalable React applications.
+
+---
+
+## 🔧 What I'm Working On
+- Building modern web apps using **React**, **JavaScript**, and **REST APIs**  
+- Focusing on **clean UI**, **dark-mode interfaces**, and **reusable components**  
+- Experimenting with new frontend tools and animation libraries ⚡
+
+---
+
+## 🤝 Looking to Collaborate On
+- Open-source **frontend projects**  
+- **SaaS dashboards** and data-driven apps  
+- Projects that need **responsive designs** + **dark UI themes**  
+
+---
+
+## 🆘 Need Help With
+- Advanced **React best practices**  
+- **Performance optimization** for large projects  
+- Improving my **unit testing** skills (Jest + React Testing Library)
+
+---
+
+## 🌱 Currently Learning
+- **Advanced React patterns**
+- **TypeScript** for better scalability  
+- **Git/GitHub workflows**
+- Building **modular component architectures**
+
+---
+
+## 💬 Ask Me About
+- React fundamentals → Hooks, State Management, Routing  
+- Organizing project structure  
+- Calling APIs & handling async logic  
+- Building fast, clean CRUD applications
+
+---
+
+## ⚡ Fun Fact
+I learn best by building real projects…  
+and sometimes breaking them *on purpose* so I can fix them again! 😄🔧🔥
 
 
 // tools_I_use organized
 
-class About extends Me {
-  const myTools = {
-    "ProgrammingLanguages": { "JavaScript", "TypeScript" },
+c
+  static myTools = {
+    ProgrammingLanguages: ["JavaScript", "TypeScript"],
 
-    "Frontend": { "React", "Next.js", "HTML", "CSS" },
+    Frontend: ["React", "Next.js", "HTML", "CSS"],
 
-    "Styling": { "Tailwind CSS" },
+    Styling: ["Tailwind CSS"],
 
-    "StateManagement": { "Context API" },
+    StateManagement: ["Context API"],
 
-    "BuildTools": { "Vite" },
+    BuildTools: ["Vite"],
 
-    "VersionControl": { "Git", "GitHub" },
+    VersionControl: ["Git", "GitHub"],
 
-    "Editors": { "VS Code" },
+    Editors: ["VS Code"],
 
-    "Design": { "Figma" },
+    Design: ["Figma"],
 
-    "OtherTools": { "Chrome DevTools" }
+    OtherTools: ["Chrome DevTools"]
   };
 }
+
 
 
 
@@ -78,10 +124,12 @@ class About extends Me {
 
 ---
 
-## 🤝 Connect With Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
-- Email: your-email@example.com  
-- Portfolio: [Your Portfolio](https://your-portfolio.com)  
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=mostafaahmed-mern&icon=0&color=0)](https://visitcount.itsvg.in/)
+## Code Cycle
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="120" alt="Broken system!" style="margin: 0 20px;"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="120" alt="It's working!" style="margin: 0 20px;"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="120" alt="Wow!" style="margin: 0 20px;"/>
+</p>
