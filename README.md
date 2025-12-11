@@ -4,29 +4,28 @@
 
 // tools_I_use organized
 
-const MOSTAFA = {
-  pronouns: "He" | "Him",
+class About extends Me {
+  const myTools = {
+    "ProgrammingLanguages": { "JavaScript", "TypeScript" },
 
-  programmingLanguages: ["JavaScript", "TypeScript"],
+    "Frontend": { "React", "Next.js", "HTML", "CSS" },
 
-  frontend: ["React", "Next.js", "HTML", "CSS"],
+    "Styling": { "Tailwind CSS" },
 
-  styling: ["Tailwind CSS"],
+    "StateManagement": { "Context API" },
 
-  stateManagement: ["Context API"],
+    "BuildTools": { "Vite" },
 
-  buildTools: ["Vite"],
+    "VersionControl": { "Git", "GitHub" },
 
-  versionControl: ["Git", "GitHub"],
+    "Editors": { "VS Code" },
 
-  editors: ["VS Code"],
+    "Design": { "Figma" },
 
-  design: ["Figma"],
+    "OtherTools": { "Chrome DevTools" }
+  };
+}
 
-  otherTools: ["Chrome DevTools"],
-
-  challenge: "I am building real-world web apps to improve my Full-Stack & MERN skills."
-};
 
 
 
