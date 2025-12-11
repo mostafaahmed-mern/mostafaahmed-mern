@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/mostafaahmed-mern/mostafaahmed-mern/main/coding.gif" alt="Coding" width="60%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mostafaahmed-mern/mostafaahmed-mern/main/Man.gif" alt="Coding" width="60%"/>
+</p>
 
 
 # 💫 About Me:
