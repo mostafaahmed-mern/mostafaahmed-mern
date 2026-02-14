@@ -103,9 +103,10 @@ and sometimes breaking them *on purpose* so I can fix them again! 😄🔧🔥
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed-mern&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-    alt="Mostafa Ahmed Top Languages" 
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed-mern&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+  alt="Mostafa Ahmed Top Languages" 
+/>
+
 </p>
 
 ---
