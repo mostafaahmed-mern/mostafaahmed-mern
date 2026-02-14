@@ -89,19 +89,19 @@ and sometimes breaking them *on purpose* so I can fix them again! 😄🔧🔥
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=shadow_blue&cache_seconds=1800" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=shadow_blue" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=shadow_blue&cache_seconds=1800" 
+    src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=shadow_blue" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=shadow_blue&cache_seconds=1800" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=shadow_blue" 
   />
 </p>
 
