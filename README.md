@@ -26,8 +26,9 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,reactrouter,ts" />
+  <img src="https://skillicons.dev/icons?i=react,js,nextjs,ts" />
 </p>
+
 
 ---
 
