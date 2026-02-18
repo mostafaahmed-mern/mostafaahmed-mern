@@ -18,8 +18,9 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 
 ---
 
-### 💻 Languages
+# 🛠️ Tech Stack
 
+### 💻 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
