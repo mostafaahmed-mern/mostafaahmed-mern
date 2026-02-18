@@ -90,14 +90,14 @@ and sometimes breaking them *on purpose* so I can fix them again! 😄🔧🔥
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=tokyonight" />
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=tokyonight&cache_seconds=1800" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img
-       src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=tokyonight&cache_seconds=1800" />
+       src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=tokyonight" />
 </p>
 
 ---
