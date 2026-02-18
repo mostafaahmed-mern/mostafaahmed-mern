@@ -45,8 +45,30 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 </p>
 
 
----
+------
+## 🚀 Featured Projects
 
+<p align="center">
+
+<a href="https://github.com/mostafaahmed-mern/project-1">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafaahmed-mern&repo=project-1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mostafaahmed-mern/project-2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafaahmed-mern&repo=project-2&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/mostafaahmed-mern/project-3">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafaahmed-mern&repo=project-3&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+-------
 ## 📊 Development Analytics
 
 <p align="center">
