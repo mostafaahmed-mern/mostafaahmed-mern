@@ -67,12 +67,16 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 
 <p align="center">
   <a href="https://linkedin.com/in/mostafaahmed-mern">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
   </a>
   <a href="mailto:mostafaa7med226@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_via_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" />
+  </a>
+  <a href="https://x.com/MOSTAFA22AHMEDs">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
   </a>
 </p>
+
 
 
 ---
