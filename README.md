@@ -62,10 +62,9 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 </p>
 
 <p align="center">
-  <img width="90%" 
+  <img width="95%" 
        src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaahmed-mern&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 ---
 
