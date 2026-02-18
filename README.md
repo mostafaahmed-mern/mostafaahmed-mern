@@ -47,18 +47,25 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 
 ---
 
-# 📊 GitHub Stats
-
-## 📊 GitHub Stats
+## 📊 Development Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=tokyonight&hide_border=true" />
+  <img width="65%" 
+       src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img width="90%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaahmed-mern&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 
