@@ -45,42 +45,24 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 </p>
 
 
-------
-## 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/mostafaahmed-mern/project-1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafaahmed-mern&repo=project-1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mostafaahmed-mern/project-2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafaahmed-mern&repo=project-2&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/mostafaahmed-mern/project-3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafaahmed-mern&repo=project-3&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
 
 -------
 ## 📊 Development Analytics
 
 <p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="70%" 
+       src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="65%" 
-       src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=tokyonight&hide_border=true" />
+  <img width="75%" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="75%" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafaahmed-mern&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
