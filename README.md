@@ -18,17 +18,18 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 
 ---
 
-# 🛠️ Tech Stack
-
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+---
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
-
 
 ---
 
@@ -43,7 +44,6 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vite,git,github,figma" />
 </p>
-
 
 
 
