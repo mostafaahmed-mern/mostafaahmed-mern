@@ -89,26 +89,15 @@ and sometimes breaking them *on purpose* so I can fix them again! 😄🔧🔥
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=shadow_blue" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=shadow_blue" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=mostafaahmed-mern&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmed-mern&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=shadow_blue" />
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-- [My Repositories](https://github.com/mostafaahmed-mern?tab=repositories)  
-- Highlight here your favorite projects (CRUD apps, dashboards, full‑stack experiments, etc.).
-
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=mostafaahmed-mern&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" 
-    alt="Mostafa Ahmed Contributor Stats" 
-  />
+  <img
+       src="https://streak-stats.demolab.com?user=mostafaahmed-mern&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
