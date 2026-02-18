@@ -98,4 +98,3 @@ Frontend Developer passionate about crafting clean UI, smooth UX, and scalable R
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="100"/>
 </p>
 
-ده تمام اوي بس خليه احترافي اكتر واكتر  
